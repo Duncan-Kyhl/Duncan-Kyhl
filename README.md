@@ -2,7 +2,7 @@
 ---
 <!-- <img src="https://image.freepik.com/free-vector/abstract-dotted-banner-background_1035-18160.jpg" width="100%"> 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duncan-Kyhl&theme=vue) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duncan-Kyhl&theme=vue_dark) 
 -->
 Check out some of my pinned repositories below!
 
