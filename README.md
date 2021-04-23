@@ -1,6 +1,6 @@
 # Hey! I'm Duncan!
 ---
-<img src="https://image.freepik.com/free-vector/abstract-dotted-banner-background_1035-18160.jpg" style="width=100%">
+<img src="https://image.freepik.com/free-vector/abstract-dotted-banner-background_1035-18160.jpg" width="100%">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duncan-Kyhl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
