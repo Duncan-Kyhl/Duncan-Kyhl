@@ -1,4 +1,6 @@
 # Hey! I'm Duncan!
+
+### Check out some of my pinned repositories below!
 ---
 <!-- <img src="https://image.freepik.com/free-vector/abstract-dotted-banner-background_1035-18160.jpg" width="100%"> 
 
