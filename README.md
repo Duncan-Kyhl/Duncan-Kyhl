@@ -6,7 +6,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duncan-Kyhl&theme=vue_dark) 
 -->
-Check out some of my pinned repositories below!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duncan-Kyhl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
